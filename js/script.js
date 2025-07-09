@@ -6,3 +6,7 @@ accendiBtn.addEventListener('click', function(){
     image.src = 'img/yellow_lamp.png'
 });
 
+spegniBtn.addEventListener('click', function(){
+    image.src = 'img/white_lamp.png'
+});
+
